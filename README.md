@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente estoy trabajando con la empresa Capgemini en el desarrollo de Microservicios con Java.<br><br>Cuento con conocimientos en Java, Spring Boot, Maven ,Angular,Bootstrap, HTML, PHP, SQL, Firebase, React Native, Git, DevOps.<br><br>Cuento con certificados de Cisco en:<br>:heavy_check_mark:CCNA Routing and Switching: Introducción a redes,<br>:heavy_check_mark:CCNA Routing and Switching: Connecting Networks,<br>:heavy_check_mark:CCNA Security.<br><br>Tengo la Carrera de Ingeniería en Tecnologías de la Información y Comunicaciones con la especialidad de Internet de las cosas.<br>
+Actualmente estoy trabajando con la empresa Capgemini en el desarrollo de Microservicios con Java.<br><br>Cuento con conocimientos en Java, Spring Boot, Maven ,Angular,Bootstrap, HTML, PHP, SQL, Firebase, React Native, Git, DevOps.<br><br>Cuento con certificados de Cisco en:<br>:heavy_check_mark:CCNA Routing and Switching: Introducción a redes.<br>:heavy_check_mark:CCNA Routing and Switching: Connecting Networks.<br>:heavy_check_mark:CCNA Security.<br><br>Tengo la Carrera de Ingeniería en Tecnologías de la Información y Comunicaciones con la especialidad de Internet de las cosas.<br>
 
 
 ## 🌐 Socials:
